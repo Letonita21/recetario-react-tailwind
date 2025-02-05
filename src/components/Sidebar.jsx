@@ -23,7 +23,7 @@ const DesktopSidebar = () => {
                 <img src="/mobile_logo.svg" alt="logo" className="block md:hidden" />
                
             </div>
-            <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700"></hr>
+            <hr className="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700"></hr>
             
             <ul className="=flex flex-col items-center md:items-start gap-8 space-x-3 space-y-6 " >
                 <Link to={"/"} className="flex gap-1">
